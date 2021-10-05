@@ -1,0 +1,173 @@
+{
+  "workspaces": {
+    "Base": {
+      "main": {
+        "id": "5135a83e8b8e03d6",
+        "type": "split",
+        "children": [
+          {
+            "id": "903ce4dbcc6e08fd",
+            "type": "split",
+            "dimension": 44.34389140271494,
+            "children": [
+              {
+                "id": "0e8b5149cb4d0dbb",
+                "type": "split",
+                "dimension": 43.90243902439025,
+                "children": [
+                  {
+                    "id": "aba4135221294cdf",
+                    "type": "leaf",
+                    "dimension": 60.35940803382663,
+                    "state": {
+                      "type": "backlink",
+                      "state": {
+                        "file": "2122nj.md",
+                        "collapseAll": true,
+                        "extraContext": false,
+                        "sortOrder": "byModifiedTime",
+                        "showSearch": false,
+                        "searchQuery": "",
+                        "backlinkCollapsed": false,
+                        "unlinkedCollapsed": false
+                      }
+                    },
+                    "group": "81950c2bdae35d9d"
+                  }
+                ],
+                "direction": "vertical"
+              },
+              {
+                "id": "8068686977f65745",
+                "type": "leaf",
+                "dimension": 56.09756097560976,
+                "state": {
+                  "type": "localgraph",
+                  "state": {
+                    "file": "2122nj.md",
+                    "options": {
+                      "collapse-filter": false,
+                      "search": "",
+                      "localJumps": 1,
+                      "localBacklinks": true,
+                      "localForelinks": true,
+                      "localInterlinks": false,
+                      "showTags": true,
+                      "showAttachments": false,
+                      "hideUnresolved": false,
+                      "collapse-color-groups": false,
+                      "colorGroups": [
+                        {
+                          "query": "path:People",
+                          "color": {
+                            "a": 1,
+                            "rgb": 14701138
+                          }
+                        },
+                        {
+                          "query": "path:Daily",
+                          "color": {
+                            "a": 1,
+                            "rgb": 14725458
+                          }
+                        },
+                        {
+                          "query": "path:Templates",
+                          "color": {
+                            "a": 1,
+                            "rgb": 4342338
+                          }
+                        }
+                      ],
+                      "collapse-display": false,
+                      "showArrow": false,
+                      "textFadeMultiplier": -0.4,
+                      "nodeSizeMultiplier": 1,
+                      "lineSizeMultiplier": 0.547665441176471,
+                      "collapse-forces": false,
+                      "centerStrength": 0.518713248970312,
+                      "repelStrength": 10,
+                      "linkStrength": 1,
+                      "linkDistance": 250,
+                      "scale": 0.7132754626224436,
+                      "close": true
+                    }
+                  }
+                },
+                "group": "81950c2bdae35d9d"
+              }
+            ],
+            "direction": "horizontal"
+          }
+        ],
+        "direction": "vertical"
+      },
+      "left": {
+        "id": "6faf864df759fc92",
+        "type": "split",
+        "children": [
+          {
+            "id": "3dbb1d05bd7a840f",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "e757e4e32672cd37",
+                "type": "leaf",
+                "state": {
+                  "type": "file-explorer",
+                  "state": {}
+                }
+              },
+              {
+                "id": "f32406b6d5897d14",
+                "type": "leaf",
+                "state": {
+                  "type": "search",
+                  "state": {
+                    "query": "wilde",
+                    "matchingCase": false,
+                    "explainSearch": false,
+                    "collapseAll": false,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical"
+                  }
+                }
+              },
+              {
+                "id": "4b515dcacb63e24a",
+                "type": "leaf",
+                "state": {
+                  "type": "tag",
+                  "state": {
+                    "sortOrder": "alphabetical",
+                    "useHierarchy": true
+                  }
+                }
+              },
+              {
+                "id": "297496582d4a5d09",
+                "type": "leaf",
+                "state": {
+                  "type": "starred",
+                  "state": {}
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "horizontal",
+        "width": 278
+      },
+      "right": {
+        "id": "0743d4a0ea256ebb",
+        "type": "split",
+        "children": [],
+        "direction": "horizontal",
+        "width": 252,
+        "collapsed": true
+      },
+      "active": "8068686977f65745"
+    }
+  },
+  "active": "Base"
+}

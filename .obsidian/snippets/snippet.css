@@ -1,0 +1,72 @@
+/*img {
+   float:right;
+   clear:right;
+   margin-left:20px;
+   width:20%;
+   max-width:120px;
+}*/
+
+.theme-dark
+{
+  --background-primary: #2f3136;
+  --background-primary-alt: #36393f;
+  --background-secondary: #202225;
+  --background-secondary-alt: #000000;
+  --text-normal: #5dbcd2;
+  --text-faint: #999999;
+
+  --text-title-h1: rgb(252, 246, 1, 0.7);
+  --text-title-h2: rgb(252, 246, 240, 0.9);
+  --text-title-h3: rgb(252, 246, 230, 0.7);
+
+  --text-title-h4: #bfbfbf;
+  --text-title-h5: #52c1da;
+  --text-title-h6: #bfbfbf;
+
+  --text-link: #99ff99;
+  --text-a: #d669bc;
+  --text-a-hover: #b3a14b;
+  --text-mark: rgb(252, 246, 1, 0.45); /* SEE HIGHLIGHTER */
+  --pre-code: #272524d9;
+  --text-highlight-bg: rgba(252, 246, 1, 0.4); /* SEE HIGHLIGHTER */
+  --interactive-accent: rgb(252, 246, 1, 0.95);
+  --interactive-before: #5e6565;
+  --background-modifier-border: #595959;
+  --blockquote-border: #9e8aff;
+  --text-accent: #319cb4;
+  --interactive-accent-rgb: #fe8019;
+  --font-family-editor: Avenir, Avenir Next, var(--default-font), sans-serif;
+  --font-family-preview: Avenir, Avenir Next, var(--default-font), sans-serif;
+  --text-selection: #164f92;
+  --text-on-accent: #2f3136
+}
+
+/* PREVIEW headings */
+
+
+.markdown-preview-view h1
+{
+  font-family: var(--font-family-preview);
+  font-weight: 500;
+  font-size: 32px;
+  font-weight: bold;
+  color: var(--text-title-h1);
+}
+
+.markdown-preview-view h2
+{
+  font-family: var(--font-family-preview);
+  font-weight: 500;
+  font-size: 23px;
+  font-weight: bold;
+  color: var(--text-title-h2);
+}
+
+.markdown-preview-view h3
+{
+  font-family: var(--font-family-preview);
+  font-weight: 400;
+  font-size: 19px;
+  #font-weight: bold;
+  color: var(--text-title-h3);
+}

@@ -1,0 +1,31 @@
+{
+  "alwaysUpdateLinks": true,
+  "promptDelete": false,
+  "tabSize": 2,
+  "defaultViewMode": "preview",
+  "spellcheckDictionary": [
+    "impactful",
+    "Dochy",
+    "Wibran",
+    "Segers",
+    "Bouwsteen",
+    "Bouwstenen",
+    "voor",
+    "druk",
+    "Filip",
+    "Europeae",
+    "Studentnabij"
+  ],
+  "attachmentFolderPath": "Attachments",
+  "pdfExportSettings": {
+    "pageSize": "A4",
+    "landscape": false,
+    "margin": "0",
+    "downscalePercent": 100
+  },
+  "autoConvertHtml": true,
+  "fileSortOrder": "alphabetical",
+  "useMarkdownLinks": true,
+  "showUnsupportedFiles": true,
+  "foldHeading": true
+}
