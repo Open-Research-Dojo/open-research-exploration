@@ -11,9 +11,6 @@ Open research is research conducted in the spirit of free and open-source softwa
 
 Source: https://en.wikipedia.org/wiki/Open_research
 
-Interesting Open Research Projects:
-- [Open Research Amsterdam](https://openresearch.amsterdam/)
-
 ## Principles
 Research should be *as open as possible, as closed as necessary*. Some research outputs cannot be openly available due to ethical, legal or commercial restrictions.
 
