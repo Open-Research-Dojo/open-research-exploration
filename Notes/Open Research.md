@@ -1,4 +1,4 @@
-# Open Source Collaborative Applied Research
+# Open Research
 Open research is research conducted in the spirit of free and open-source software. It encompasses the entire research process, to make all aspects of the research cycle accessible. This extends the established ways to share your research of making publications open access and making the underlying data available.
 
 Open research could include results, software and code, methodology, protocols and documentation, as well as publications and data. Other open research initiatives are study preregistration, use of preprints and open peer review. In the arts and humanities, open research will take many forms and may include sharing digital humanities methods and tools, reflections on your research practice, notes, audio-visual materials and annotated bibliographies.
@@ -7,8 +7,8 @@ Open research is research conducted in the spirit of free and open-source softwa
 
 Source: https://en.wikipedia.org/wiki/Open_research
 
-## OSCAR Framework
-Open Source Collaborative Applied Research (OSCAR) is a framework that interprets more conventional scientific research methods to adapt to the needs of a smaller context-bound applied research project.
+## Open Source Collaborative Applied Research
+Open Source Collaborative Applied Research (OSCAR) is a framework that adapts conventional scientific research methods to the needs of a practical, context-bound, applied research project.
 
 ## Principles
 Research should be *as open as possible, as closed as necessary*. Some research outputs cannot be openly available due to ethical, legal or commercial restrictions.
@@ -25,7 +25,6 @@ The basic principles of open research are to:
 - exploit online tools to aid collaboration including blogging, social media, altmetrics, pre-print servers.
 
 ## Benefits
-
 For some researchers, practicing open research is already second nature. Others may feel it adds another stage to the research process, but there are significant benefits for you and the research community.
 
 Practicing open research:
