@@ -3,12 +3,8 @@ Open research is research conducted in the spirit of free and open-source softwa
 
 Open research could include results, software and code, methodology, protocols and documentation, as well as publications and data. Other open research initiatives are study preregistration, use of preprints and open peer review. In the arts and humanities, open research will take many forms and may include sharing digital humanities methods and tools, reflections on your research practice, notes, audio-visual materials and annotated bibliographies.
 
-Open research is research conducted in the spirit of free and open-source software. Much like open-source schemes that are built around a source code that is made public, *the central theme of open research is to make clear accounts of the methodology freely available via the internet, along with any data or results extracted or derived from them*. This permits a massively distributed collaboration, and one in which anyone may participate at any level of the project.
-
-Source: https://en.wikipedia.org/wiki/Open_research
-
 ## Open Source Collaborative Applied Research
-Open Source Collaborative Applied Research (OSCAR) is a framework that adapts conventional scientific research methods to the needs of a practical, context-bound, applied research project.
+Open Source Collaborative Applied Research (OSCAR) is a framework that adapts conventional scientific research methods to the needs of a practical, context-bound, applied research project. It builds upon the [Development Oriented Triangulation Framework](https://ictresearchmethods.nl/The_DOT_Framework) [^1] to add a set of principles to adhere open collaboration.
 
 ## Principles
 Research should be *as open as possible, as closed as necessary*. Some research outputs cannot be openly available due to ethical, legal or commercial restrictions.
@@ -40,4 +36,4 @@ Practicing open research:
 ## Distributed Collaboration
 
 ---
-[^1]: Open Research - [University of Cambridge](https://osc.cam.ac.uk/open-research)
+[^1]: Bonestroo, W.J., Meesters, M., Niels, R., Schagen, J.D., Henneke, L., Turnhout, K. van (2018): ICT Research Methods. HBO-i, Amsterdam. ISBN/EAN: 9990002067426. Available from: http://www.ictresearchmethods.nl/
