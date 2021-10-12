@@ -1,4 +1,8 @@
 # Open Research
+Open Research embodies ideas of best research practice by opening access to results, data, protocols and other aspects of the research process. It also includes the use of open source software and open standards that offer unfettered dissemination of scientific discourse[^1].
+
+
+
 Open research encompasses the entire research process, to make all aspects of the research cycle accessible. This extends the established ways to share your research of making publications open access and making the underlying data available.
 
 Open research could include results, software and code, methodology, protocols and documentation, as well as publications and data. Other open research initiatives are study preregistration, use of preprints and open peer review. In the arts and humanities, open research will take many forms and may include sharing digital humanities methods and tools, reflections on your research practice, notes, audio-visual materials and annotated bibliographies.
@@ -38,3 +42,6 @@ Practicing open research:
 - extends the reach and impact of research outside academia
 - increases opportunities for collaboration
 - increases chances of citations.
+
+---
+[^1]: Open Research - [University of Cambridge](https://osc.cam.ac.uk/open-research)
