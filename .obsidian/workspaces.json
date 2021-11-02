@@ -1,28 +1,38 @@
 {
   "workspaces": {
-    "Base": {
+    "OR Base": {
       "main": {
         "id": "5135a83e8b8e03d6",
         "type": "split",
         "children": [
           {
-            "id": "903ce4dbcc6e08fd",
+            "id": "d67e13cfd38c5b87",
             "type": "split",
-            "dimension": 44.34389140271494,
             "children": [
               {
-                "id": "0e8b5149cb4d0dbb",
+                "id": "0d2363047d3016e9",
+                "type": "leaf",
+                "dimension": 61.89245087900724,
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "README.md",
+                    "mode": "preview"
+                  }
+                }
+              },
+              {
+                "id": "5c487c50b6c20a54",
                 "type": "split",
-                "dimension": 43.90243902439025,
+                "dimension": 38.107549120992765,
                 "children": [
                   {
                     "id": "aba4135221294cdf",
                     "type": "leaf",
-                    "dimension": 60.35940803382663,
                     "state": {
                       "type": "backlink",
                       "state": {
-                        "file": "2122nj.md",
+                        "file": "README.md",
                         "collapseAll": true,
                         "extraContext": false,
                         "sortOrder": "byModifiedTime",
@@ -32,72 +42,49 @@
                         "unlinkedCollapsed": false
                       }
                     },
-                    "group": "81950c2bdae35d9d"
+                    "group": "8cff2e153e32efbb"
+                  },
+                  {
+                    "id": "eea68dce22f81990",
+                    "type": "leaf",
+                    "state": {
+                      "type": "localgraph",
+                      "state": {
+                        "file": "README.md",
+                        "options": {
+                          "collapse-filter": true,
+                          "search": "",
+                          "localJumps": 1,
+                          "localBacklinks": true,
+                          "localForelinks": true,
+                          "localInterlinks": false,
+                          "showTags": false,
+                          "showAttachments": false,
+                          "hideUnresolved": false,
+                          "collapse-color-groups": true,
+                          "colorGroups": [],
+                          "collapse-display": true,
+                          "showArrow": false,
+                          "textFadeMultiplier": 0,
+                          "nodeSizeMultiplier": 1,
+                          "lineSizeMultiplier": 1,
+                          "collapse-forces": true,
+                          "centerStrength": 0.518713248970312,
+                          "repelStrength": 10,
+                          "linkStrength": 1,
+                          "linkDistance": 250,
+                          "scale": 0.713275462622442,
+                          "close": true
+                        }
+                      }
+                    },
+                    "group": "8cff2e153e32efbb"
                   }
                 ],
-                "direction": "vertical"
-              },
-              {
-                "id": "8068686977f65745",
-                "type": "leaf",
-                "dimension": 56.09756097560976,
-                "state": {
-                  "type": "localgraph",
-                  "state": {
-                    "file": "2122nj.md",
-                    "options": {
-                      "collapse-filter": false,
-                      "search": "",
-                      "localJumps": 1,
-                      "localBacklinks": true,
-                      "localForelinks": true,
-                      "localInterlinks": false,
-                      "showTags": true,
-                      "showAttachments": false,
-                      "hideUnresolved": false,
-                      "collapse-color-groups": false,
-                      "colorGroups": [
-                        {
-                          "query": "path:People",
-                          "color": {
-                            "a": 1,
-                            "rgb": 14701138
-                          }
-                        },
-                        {
-                          "query": "path:Daily",
-                          "color": {
-                            "a": 1,
-                            "rgb": 14725458
-                          }
-                        },
-                        {
-                          "query": "path:Templates",
-                          "color": {
-                            "a": 1,
-                            "rgb": 4342338
-                          }
-                        }
-                      ],
-                      "collapse-display": false,
-                      "showArrow": false,
-                      "textFadeMultiplier": -0.4,
-                      "nodeSizeMultiplier": 1,
-                      "lineSizeMultiplier": 0.547665441176471,
-                      "collapse-forces": false,
-                      "centerStrength": 0.518713248970312,
-                      "repelStrength": 10,
-                      "linkStrength": 1,
-                      "linkDistance": 250,
-                      "scale": 0.7132754626224436,
-                      "close": true
-                    }
-                  }
-                },
-                "group": "81950c2bdae35d9d"
+                "direction": "horizontal"
               }
             ],
-            "direction": "horizontal"
+            "direction": "vertical"
           }
         ],
         "direction": "vertical"
@@ -124,7 +111,7 @@
                 "state": {
                   "type": "search",
                   "state": {
-                    "query": "wilde",
+                    "query": "tag:#open-science",
                     "matchingCase": false,
                     "explainSearch": false,
                     "collapseAll": false,
@@ -156,18 +143,47 @@
           }
         ],
         "direction": "horizontal",
-        "width": 278
+        "width": 304
       },
       "right": {
         "id": "0743d4a0ea256ebb",
         "type": "split",
-        "children": [],
+        "children": [
+          {
+            "id": "48b9caa01daef740",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "8ac1da82a8d64d89",
+                "type": "leaf",
+                "state": {
+                  "type": "outgoing-link",
+                  "state": {
+                    "file": "README.md",
+                    "linksCollapsed": false,
+                    "unlinkedCollapsed": true
+                  }
+                }
+              },
+              {
+                "id": "9e6400b6193d38b1",
+                "type": "leaf",
+                "state": {
+                  "type": "outline",
+                  "state": {
+                    "file": "README.md"
+                  }
+                }
+              }
+            ]
+          }
+        ],
         "direction": "horizontal",
         "width": 252,
         "collapsed": true
       },
-      "active": "8068686977f65745"
+      "active": "0d2363047d3016e9"
     }
   },
-  "active": "Base"
+  "active": "OR Base"
 }
